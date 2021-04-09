@@ -10,3 +10,10 @@ say_hello2('Juan','*_*')
 
 # keyword arguments
 say_hello2(emoji='*_*',name='John')
+
+#return
+
+def sum(num1,num2):
+   return num1+num2
+
+# print(sum(int(input('choose a number')),int(input('choose another number'))))
